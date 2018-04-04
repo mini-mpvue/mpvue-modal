@@ -1,7 +1,7 @@
 <template>
   <div class="modal-wrapper" :class="[isShow?'show':'']">
     <div class="modal-header">
-      <div class="btn-close" @tap="close">
+      <div class="btn-close" @click="close">
         <span class="iconfont icon-close"></span>
       </div>
       <slot name="title"></slot>
