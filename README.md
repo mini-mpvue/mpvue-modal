@@ -6,6 +6,11 @@
 
 ![image](https://github.com/mini-mpvue/mpvue-modal/raw/master/screenshots/show.gif)
 
+## install
+
+```bash
+npm install mpvue-toast --save
+```
 ## 用法
 
 ```html
