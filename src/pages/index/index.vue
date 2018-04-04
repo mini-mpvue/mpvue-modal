@@ -30,7 +30,7 @@ export default {
       this.is_show = false
     },
     showHandler () {
-      this.is_show = !this.is_show
+      this.is_show = true
     }
   },
   created() {
