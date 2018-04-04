@@ -2,6 +2,9 @@
 
 > mpvue-modal is a excelent plugin base on mpvue.
 
+## 效果演示
+
+![image](https://github.com/mini-mpvue/mpvue-modal/raw/master/screenshots/show.gif)
 
 ## 用法
 
