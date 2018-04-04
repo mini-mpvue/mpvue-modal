@@ -6,10 +6,10 @@
 
 ![image](https://github.com/mini-mpvue/mpvue-modal/raw/master/screenshots/show.gif)
 
-## install
+## 插件安装
 
 ```bash
-npm install mpvue-toast --save
+npm i mpvue-modal -D
 ```
 ## 用法
 
@@ -27,7 +27,7 @@ npm install mpvue-toast --save
 </template>
 
 <script>
-import comModal from '@/components/modal'
+import comModal from 'mpvue-modal'
 export default {
   data () {
     return {
