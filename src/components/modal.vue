@@ -33,6 +33,7 @@ export default {
   @import url("../../static/style/icon.css");
   .modal-wrapper{
     position:fixed;
+    z-index:99;
     top:0;
     bottom:0;
     left:0;
